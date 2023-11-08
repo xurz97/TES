@@ -1,4 +1,4 @@
-### Fast implementation of four TES standard
+### Fast implementation of four TES standards
 Tweakable enciphering scheme (TES) is a type of encryption scheme that provides strong pseudorandom permutation security on arbitrarily long messages.
 
 four TES standards: XTS, HCTR, XCB, EME2
